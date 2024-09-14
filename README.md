@@ -8,7 +8,7 @@ With time I slowly transitioned to low-level languages like Rust which I’ve gr
 
 I am currently open to work and would love to work on an environment ready to challenge me to explore even further.
 
-## Quick facts about me
+### Quick facts about me
 
 - 🖥️ Been coding for about 4 years
 - 💨 Started out as a Web developer
