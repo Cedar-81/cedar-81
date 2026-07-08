@@ -1,16 +1,19 @@
 ## Hi there 👋, I'm Divinewisdom
 
-### About me
+### **Full-Stack Developer | Systems Explorer**
 
-I started programming during the lockdown out of pure curiosity, and I quickly discovered two things about myself: I love crafting beautiful UIs, and I love digging deep into how things work. That curiosity first led me into web development—starting with JavaScript, then growing into frameworks like Next.js and Svelte—where I built interactive, user-focused applications.
+I’m a full-stack engineer driven by a simple philosophy: **build crisp, responsive user interfaces and pair them with high-performance, resilient backends.** 
 
-Over time, I expanded into systems programming, exploring Rust (my favorite) and Zig. With Rust, I’ve worked on projects like SubmergeUI, an open-source library that brings Tailwind-like styling to the Bevy game engine, and Dive, a simple key-value store inspired by Redis. These experiences deepened my appreciation for performance, memory safety, and the low-level details that power the software we all rely on.
+I spend most of my time shipping full-stack applications using **React** and **Next.js** on the frontend, powered by robust services in **NestJS** and **Python** on the backend. 
 
-Today, I bring together both worlds—web development expertise and a growing body of systems programming experience—to build efficient, thoughtful solutions. I’m currently open to work and excited to collaborate on projects that push me to keep learning and solving challenging problems.
+When I’m not building for the web, I dive into systems programming with **Rust** to sharpen my understanding of performance and low-level architecture. Some of my favorite side quests include building **SubmergeUI** (an open-source Tailwind-inspired styling library for the Bevy game engine) and **Dive** (a lightweight, Redis-inspired key-value store).
 
-Quick Facts
-- 🖥️ 4+ years coding experience
-- 💨 Started out as a web developer
-- 💥 Now exploring low-level development with Rust
-- 🌱 Creator of SubmergeUI (Bevy + Tailwind-inspired styling)
-- 💼 Currently Open to Work
+Today, I bring those two worlds together, combining modern full-stack web development with a deep appreciation for system efficiency.
+
+---
+
+### **Quick Facts**
+* ⚡ **Frontend Main:** Next.js, React, Svelte, Tailwind CSS
+* 🛠️ **Backend Main:** NestJS, Python, REST/GraphQL APIs
+* 🦀 **Rust Projects:** Creator of [SubmergeUI](https://github.com/Cedar-81/SubmergeUI) & [Dive](https://github.com/Cedar-81/dive)
+* 💼 **Status:** Open to Work & Collaborations
